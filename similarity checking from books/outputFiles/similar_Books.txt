@@ -1,0 +1,11 @@
+Top 10 Most Similar Books:
+1. Gerard's Herbal Vol. 3.txt and Gerards Herbal Vol.4.txt (Similarity: 0.910000)
+2. Memoirs of Laetitia Pilkington V 1.txt and Memoirs of Laetitia Pilkington V 3.txt (Similarity: 0.880000)
+3. Gerard's Herbal Vol. 3.txt and Gerards Herbal Vol. 2.txt (Similarity: 0.880000)
+4. Gerards Herbal Vol. 2.txt and Gerards Herbal Vol.4.txt (Similarity: 0.880000)
+5. Foxes Book of Martyrs Part 3.txt and Foxes Book of Martyrs Part 6.txt (Similarity: 0.870000)
+6. Foxes Book of Martyrs Part 5.txt and Foxes Book of Martyrs Part 6.txt (Similarity: 0.860000)
+7. Foxes Book of Martyrs Part 4.txt and Foxes Book of Martyrs Part 6.txt (Similarity: 0.860000)
+8. The Newgate Calendar Supplement.txt and The Newgate Calendar V 6.txt (Similarity: 0.860000)
+9. The Newgate Calendar V 2.txt and The Newgate Calendar V 3.txt (Similarity: 0.850000)
+10. Memoirs of Laetitia Pilkington V 2.txt and Memoirs of Laetitia Pilkington V 3.txt (Similarity: 0.840000)
